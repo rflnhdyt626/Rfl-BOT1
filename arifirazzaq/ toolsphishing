@@ -1,5 +1,7 @@
-const shellphish_toolsphishing = (prefix) => { 
-	return `
+const shellphish_toolsphishing = (prefix) => { 
+
+	return `
+
 ━━━━━━━━━━━━━━━━━━━━
 Shellphish – Tools Phishing Termux 
 ━━━━━━━━━━━━━━━━━━━━
@@ -14,6 +16,9 @@ $ bash shellphish.sh
 *Jika Anda Menyalah gunakan Script dan bot Owner Tidak Bertanggung Jawab!*
 
 kembali ke Lobby ketik ${prefix}tools
-`
-}
-exports.shellphish_toolsphishing = shellphish_toolsphishing
+`
+
+}
+
+exports.shellphish_toolsphishing = shellphish_toolsphishing
+
