@@ -1,17 +1,15 @@
 const help = (prefix) => {
         return `
 ╭────────────────
-⛶┃ *༺ HASUFA TEAM ༻*
+⛶┃ *༺ RFL-BOT ༻*
 │╭────── 
 ├╯
 ├───╗ 
-│ ⛬ ╔╯ *VERSION : V 6.0.0*
+│ ⛬ ╔╯ *VERSION : V1*
 ├──╯────────────────
-*┃⛨─✧ུNama : HASUFA BOT*
-*┃⛨─✧ུType : Eren Bot V6*
-*┃⛨─✧ུFounder : Arifi & Team*
+*┃⛨─✧ུNama : RFL-BOT*
+*┃⛨─✧ུType : V1
 *┃⛨─✧ུStatus : ACTIVE*
-*┃⛨─✧ུOwner : Arifi Razzaq*
 *┃⛨─✧ུPrefix : ❪ ${prefix} ❫*
 *╰─╗*
 *┎─┸─⪼⦁ RULES*
@@ -25,7 +23,6 @@ const help = (prefix) => {
 ├◘ *Cek : ${prefix}cekup*
 ├◘ *riwayat : ${prefix}memobot*
 ├◘ *Semua Menu : ${prefix}all*
-├◘ *Thanx To : ${prefix}bycc*
 └───────────────
 
  
@@ -39,7 +36,6 @@ const help = (prefix) => {
 ├ ✎◞ *${prefix}makemenu*
 ├ ✎◞ *${prefix}othermenu*
 ├ ✎◞ *${prefix}animemenu*
-├ ✎◞ *${prefix}nsfwmenu*
 ├ ✎◞ *${prefix}funmenu*
 ├ ✎◞ *${prefix}wibumenu*
 ├ ✎◞ *${prefix}soundmenu*
@@ -50,50 +46,30 @@ const help = (prefix) => {
 │
 ├ ✎◞ *${prefix}leveling [Enable/Disable]*
 ├ ✎◞ *${prefix}Anime [1/0]*
-├ ✎◞ *${prefix}nsfw [1/0]*
 ├ ✎◞ *${prefix}welcome [1/0]*
 ├ ✎◞ *${prefix}public [1/0]*
 ├ ✎◞ *${prefix}event [1/0]*
 └ ✎◞ *${prefix}antilinkgroup [1/0]* 
 
 
-┌──「 *ARIFI RAZZAQ* 」
+┌──「 *IKLAN* 」
 │
-├ ✎◞ *${prefix}developer*
-├ ✎◞ *${prefix}jadiselebgram*
-├ ✎◞ *${prefix}daftarmemberselebgram*
-└ ✎◞ *${prefix}jasahapusakun*
-
+├ ✎◞ *YOUTUBE PREMIUM MURAH 1 BULAN 2.499*
+├ ✎◞ *YOUTUBE PREMIUM MURAH 1 TAHUN 30.000*
+├ ✎◞ *INVIT BOT WHATSAPP KE GC 15.000/BULAN*
+├ ✎◞ *HUBUNGI /OWNER ATAU WA : 081313994677
+└ ✎◞ *SHOPEE : Starblood.store*
 
 
         ▉║█▐▉▉▐▐▍█║▍▉▏▍▍
         ▉║█▐▉▉▐▐▍█║▍▉▏▍▍   
                                         
                                
-          *© ARIFI RAZZAQ*
+          *© RFL-BOT*
           
-          
-          
-┎── *「 HASUFA TEAM 」*
-*│*
-*├➤ _-Arifi Razzaq_*
-*├➤ _-Feedz_*
-*├➤ _-iSuff_*
-*├➤ _-Raihan_*
-*├➤ _-Andito_* 
-*├➤ _-nayla_* 
-
-*├➤ _-rizz_*
-
-*├➤ _-Y-DhyZx_*
-
-*├➤ _-Ivan-MLN_*
-
-*├➤ _-Sanz_*
-                                                        
-                                                                                                                                                    
+                                                                                                                           
 *Jangan Lupa Untuk Donasi Agar Bot Selalu Aktif*
-https://saweria.co/Arifirazzaq2001
+*${prefix}donasi*
 `
 }
 exports.help = help
