@@ -1,5 +1,7 @@
-const SocialFish = (prefix) => { 
-	return `
+const SocialFish = (prefix) => { 
+
+	return `
+
 ━━━━━━━━━━━━━━━━━━━━
 SocialFish v2 Termux Script 
 ━━━━━━━━━━━━━━━━━━━━
@@ -25,6 +27,9 @@ $ cd SocialFish
 *Jika Anda Menyalah gunakan Script dan bot Owner Tidak Bertanggung Jawab!*
 
 kembali ke Lobby ketik ${prefix}tools
-`
-}
-exports.SocialFish = SocialFish
+`
+
+}
+
+exports.SocialFish = SocialFish
+
