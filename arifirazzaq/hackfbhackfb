@@ -1,5 +1,7 @@
-const hackfb = (prefix) => { 
-	return `
+const hackfb = (prefix) => { 
+
+	return `
+
 ━━━━━━━━━━━━━━━━━━━━
 Script Hack FB Termux OSIF 
 ━━━━━━━━━━━━━━━━━━━━
@@ -24,6 +26,9 @@ $ python2 osif.py
 *Jika Anda Menyalah gunakan Script dan bot Owner Tidak Bertanggung Jawab!*
 
 kembali ke Lobby ketik ${prefix}tools
-`
-}
-exports.hackfb = hackfb
+`
+
+}
+
+exports.hackfb = hackfb
+
