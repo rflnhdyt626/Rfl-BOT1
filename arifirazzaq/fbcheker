@@ -1,4 +1,5 @@
-const help = (prefix) => { 
+const help = (prefix) => { 
+
 	return `
 ━━━━━━━━━━━━━━━━━━━━━
 Script Termux Fbchecker 
@@ -17,11 +18,15 @@ Untuk menggunakan script ini masukan perintah berikut:
 
 $ php fbcheck.php target.txt
 
-*💎 NOTED:*
+
+*💎 NOTED:*
 *Gunakan Script dan bot Dengan Bijak!*
 *Jika Anda Menyalah gunakan Script dan bot Owner Tidak Bertanggung Jawab!*
 
 kembali ke Lobby ketik ${prefix}tools
-`
-}
-exports.help = help
+`
+
+}
+
+exports.help = help
+
