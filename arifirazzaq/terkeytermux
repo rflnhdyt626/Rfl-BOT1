@@ -1,5 +1,7 @@
-const terkeytermux = (prefix) => { 
-	return `
+const terkeytermux = (prefix) => { 
+
+	return `
+
 ━━━━━━━━━━━━━━━━━━━━
 Tombol Termux Up Down - Terkey
 ━━━━━━━━━━━━━━━━━━━━
@@ -16,5 +18,7 @@ $ python terkey.py
 
 kembali ke Lobby ketik ${prefix}tools
 `
-}
-exports.terkeytermux = terkeytermux
+}
+
+exports.terkeytermux = terkeytermux
+
